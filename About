@@ -3,7 +3,10 @@ What this company is
 TechPath Evidence is building a research platform for people in Canada exploring careers in cybersecurity, IT, and software development. It is intended to help users choose technology training through transparent research into employer demand, training details, labour-market data, and credible outcomes, with practical next steps rather than employment promises.
 
 Current objective
-Build the MVP for a Canada-focused cybersecurity prompt-to-report flow that captures each user's role, experience, location, budget, and goals; researches live job postings, official training details, labour-market data, and credible outcome reports; and returns three ranked options with source links, costs, durations, prerequisites, skills, employer-demand evidence, relevant postings, verified outcomes when available, evidence limits, a practical project, and a personalized 30/60/90-day
+Build the MVP for a Canada-focused cybersecurity prompt-to-report flow that captures each user's role, experience, location, budget, and goals; 
+researches live job postings, official training details, labour-market data, and credible outcome reports; 
+and returns three ranked options with source links, costs, durations, prerequisites, skills, employer-demand evidence, relevant postings, 
+verified outcomes when available, evidence limits, a practical project, and a personalized 30/60/90-day
 
 Who it serves
 People in Canada exploring careers in cybersecurity, IT, or software development, especially career changers and aspiring technologists.
