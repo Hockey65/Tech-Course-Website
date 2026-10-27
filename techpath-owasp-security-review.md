@@ -1,4 +1,4 @@
-# TechPath Evidence: OWASP Top 10:2025 Security Review
+# TechPath: OWASP Top 10 Security Review
 
 **Website:** https://techpath-evidence.polsia.io/\
 **Reviewer:** Owen Power\
