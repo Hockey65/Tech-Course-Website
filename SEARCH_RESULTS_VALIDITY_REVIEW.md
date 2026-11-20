@@ -21,7 +21,7 @@ The app labels every score "Provisional," which is an admission that the scores 
 
 ## Case 1: Software engineer (Montreal)
 
-![Case 1 screenshot](screenshots/case1-software-engineer.png)
+
 
 ### Inputs
 
@@ -63,7 +63,7 @@ The app reports 2 provider pages and 2 job postings. The skill signals it says i
 
 ## Case 2: SOC analyst (Ontario)
 
-![Case 2 screenshot](screenshots/case2-soc-analyst.png)
+
 
 ### Inputs
 
